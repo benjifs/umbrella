@@ -1,3 +1,9 @@
 {
-	"items": []
+	"items": [
+		{ "url": "https://umbrella.sploot.com", "label": "demo" },
+		{ "url": "https://github.com/benjifs/umbrella", "label": "source code" },
+		{ "url": "https://benji.dog" },
+		{ "url": "https://11ty.dev", "label": "11ty" },
+		{ "url": "https://indieweb.org", "label": "IndieWeb" }
+	]
 }
